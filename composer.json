@@ -1,7 +1,7 @@
 {
     "name": "community_inc/blueprint",
     "description": "API Blueprint documentation generator.",
-    "keywords": ["blueprint", "api", "laravel", "dingo", "docs"],
+    "keywords": ["blueprint", "api", "laravel", "community_inc", "docs"],
     "license": "BSD-3-Clause",
     "authors": [
         {
